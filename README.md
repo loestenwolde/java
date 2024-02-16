@@ -1,3 +1,3 @@
 # java
- java curses 123
+java curses abc
  
